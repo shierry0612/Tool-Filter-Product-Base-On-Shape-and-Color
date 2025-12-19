@@ -1,0 +1,5 @@
+# Cập nhật pip
+python -m pip install --upgrade pip
+
+# Các lib cơ bản
+python -m pip install numpy pillow pyside6 torch torchvision 
