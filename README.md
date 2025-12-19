@@ -50,15 +50,14 @@ Tool phù hợp cho workflow “chọn 1 ảnh mẫu → tìm các ảnh giống
 
 ## Cài đặt
 
-### 1) Tạo môi trường ảo (khuyến nghị)
+ 1) Tạo môi trường ảo (khuyến nghị)
 ```bash
 python -m venv .venv
 # Windows:
 .venv\Scripts\activate
 # macOS/Linux:
 source .venv/bin/activate
-
-### 2) Cài dependencies
+ 2) Cài dependencies
 
 Nếu dùng CPU:
 
